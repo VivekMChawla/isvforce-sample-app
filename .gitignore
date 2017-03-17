@@ -1,5 +1,9 @@
+.DS_Store
 .project
 .settings
 .sfdx
+.salesforce
+.idea
 salesforce.schema
 Referenced Packages
+node_modules
