@@ -1,3 +1,4 @@
+x
 # sfdx-travisci [![Build Status](https://travis-ci.org/forcedotcom/sfdx-travisci.svg?branch=master)](https://trailhead.salesforce.com/trails/sfdx_get_started/modules/sfdx_travis_ci)
 
 For a fully guided walk through of setting up and configuring this sample, see the [Continuous Integration Using Salesforce DX](https://trailhead.salesforce.com/modules/sfdx_travis_ci) Trailhead module.
@@ -51,3 +52,9 @@ If you find any issues or opportunities for improving this respository, fix them
 ## Reporting Issues ###
 
 If you find any issues with this demo that you can't fix, feel free to report them in the [issues](https://github.com/forcedotcom/sfdx-travisci/issues) section of this repository.
+=======
+# isvforce-sample-app
+A sample app that has a lot going for it.  You can use this to demonstrate various technologies associated with Salesforce managed packages.
+
+This is a new change that is unique to branch 2.
+>>>>>>> b0582cdab272d819ce5dc0be61030bbe079b7ec3
